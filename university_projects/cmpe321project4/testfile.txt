@@ -1,0 +1,3 @@
+login useralpha X3n0m3R
+create type humans 4 name age height weight
+inherit type human animal alias occupation
