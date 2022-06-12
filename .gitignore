@@ -1,9 +1,1 @@
-log.txt
-*.pyc
-*.pyo
 
-_pycache_/
-sanalortam/
-env/
-.vscode/
-.idea/
