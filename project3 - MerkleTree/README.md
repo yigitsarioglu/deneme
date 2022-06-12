@@ -1,15 +1,17 @@
-# Simple nature simulation/game composed of pixel-like creatures interacting with each other.
+# Merkle Tree
+Student project , which handles downloading the files with checking their correctness(hash values) ,uses data structures like merkle trees.
 
-It is a student project which is developed using object-oriented programming with java.
+In addition to its applications in the cryptography, file revision systems and most recently,
+the cryptocurrency technologies such as Bitcoin and Ethereum, Merkle Tree is a powerful
+mechanism that has been widely used in peer-to-peer file sharing, such as torrent protocol.
+For this project, you are expected to implement one of the most basic approaches to
+peer-to-peer (p2p) file sharing technology.
 
-In summary, implemented two types of creatures:
-Plants will grow and reproduce, while herbivores will move around to eat them and will also re-produce when they accumulate enough health. 
-The game will not be played by a human, but will rather play itself.
 
-
-# UI of the game 
-
-<img src="https://github.com/yigitsarioglu/naturesimulator/blob/main/naturesimulation.jpg" width="425" height="425">
+According to Wikipedia, p2p file sharing is the distribution and sharing of digital media
+using peer-to-peer networking technology. By using a p2p software, the users are able to
+share or get access to the content they desire. In this project, we limit our interest to the
+“downloading” part of the p2p file sharing
 
 
 
