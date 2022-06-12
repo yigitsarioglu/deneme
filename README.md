@@ -1,4 +1,4 @@
-# naturesimulator
+# Java OOP Student Projects
 Java Object oriented programming (OOP) Projects
 
 ## Project 1 - Nature Simulator
