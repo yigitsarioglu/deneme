@@ -7,6 +7,10 @@ Plants will grow and reproduce, while herbivores will move around to eat them an
 The game will not be played by a human, but will rather play itself.
 
 
+# UI of the game 
+
+<img src="https://github.com/yigitsarioglu/naturesimulator/blob/main/naturesimulation.jpg" width="425" height="425">
+
 
 
 # Run configurations / Requirements:
